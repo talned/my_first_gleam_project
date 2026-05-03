@@ -4,3 +4,5 @@ main = "my_project"
 
 [dependencies]
 gleam_stdlib = ">= 1.0.0 and < 2.0.0"
+gleam_community_ansi = ">= 1.5.0 and < 2.0.0"
+gleam_community_colour = ">= 2.0.4 and < 3.0.0"
