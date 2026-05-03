@@ -1,8 +1,5 @@
 # gleam.toml
 name = "my_project"
-version = "0.1.0"
-description = "..."
-licence = "..."
 main = "my_project"
 
 [dependencies]
